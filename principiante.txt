@@ -1,0 +1,9 @@
+-1,top,0,0
+1,Mario,0,17
+2,Mario,0,4
+3,Andres,0,19
+4,israel,0,24
+5,andres,0,55
+6,israki,0,35
+7,israki,0,25
+8,israki,0,13
